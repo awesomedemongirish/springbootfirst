@@ -7,7 +7,7 @@ import org.springframework.context.ApplicationContext;
 public class App {
 
 	public static void main(String[] args) {
-		ApplicationContext ctx = SpringApplication.run(App.class, args);
+		ApplicationContext cta = SpringApplication.run(App.class, args);
 
 	}
 
